@@ -1,5 +1,5 @@
 # Medicare/Medicaid Mortality Risk Analysis
-*Identifying High-Risk Patients to Reduce Preventable Deaths and Healthcare Costs*
+*Identifying High-Risk Patients to Reduce Preventable Deaths and Healthcare Costs Using CMS data*
 
 
 ## Executive summary
@@ -10,5 +10,10 @@
 2. What interventions are most likely to prevent adverse outcomes? 
 3. How to optimize care to reduce cost of care and decrease adverse outcomes?
 ---
+
+## Technologies
+- BigQuery
+- Power BI
+- SQL
 
 ## Key Takeaways
