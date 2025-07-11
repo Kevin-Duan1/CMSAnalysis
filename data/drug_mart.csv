@@ -1,0 +1,501 @@
+pid,age,died,ethnicity,gender,race,concept_name,chronic_condition,has_ckd,has_copd,has_diabetes,has_hypertension,has_dementia,has_alzheimer,has_cancer,has_hiv,has_aids,heart_failure,num_drugs,risk_level
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+1749,73,1,Not Hispanic or Latino,Female,WHITE,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.409638554,Medium Risk
+3474,80,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.0625,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia,1,0,0,0,0,1,0,0,0,0,0,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Arteriosclerotic dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Malignant secondary renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.448818898,Medium Risk
+8553,72,0,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.448818898,Medium Risk
+8834,69,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.236363636,Medium Risk
+17972,58,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.256410256,Medium Risk
+19618,66,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia,1,0,0,0,0,1,0,0,0,0,0,1.571428571,Medium Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Chronic peripheral venous hypertension,1,0,0,0,1,0,0,0,0,0,0,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,6.314285714,High Risk
+22051,81,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0,6.314285714,High Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Malignant hypertensive chronic kidney disease,1,1,0,0,0,0,0,0,0,0,0,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Malignant secondary hypertension,1,0,0,0,1,0,0,0,0,0,0,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Malignant secondary hypertension,1,0,0,0,1,0,0,0,0,0,0,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,3.844827586,Medium Risk
+22732,74,0,Not Hispanic or Latino,Male,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,3.844827586,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.222222222,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.222222222,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1,1.222222222,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.222222222,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.222222222,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.222222222,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.222222222,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Chronic peripheral venous hypertension,1,0,0,0,1,0,0,0,0,0,0,1.222222222,Medium Risk
+27958,81,1,Not Hispanic or Latino,Male,WHITE,Malignant hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.222222222,Medium Risk
+29791,70,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.480392157,Medium Risk
+29791,70,0,Not Hispanic or Latino,Male,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.480392157,Medium Risk
+29791,70,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.480392157,Medium Risk
+29791,70,0,Not Hispanic or Latino,Male,WHITE,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.480392157,Medium Risk
+30558,80,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+34069,83,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+42936,69,1,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.0625,Medium Risk
+42936,69,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.0625,Medium Risk
+46359,89,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.209302326,Medium Risk
+46359,89,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0,1.209302326,Medium Risk
+46359,89,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.209302326,Medium Risk
+46359,89,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.209302326,Medium Risk
+48468,76,0,Not Hispanic or Latino,Male,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.230769231,Medium Risk
+48468,76,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.230769231,Medium Risk
+48468,76,0,Not Hispanic or Latino,Male,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.230769231,Medium Risk
+48468,76,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.230769231,Medium Risk
+50741,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.375,Medium Risk
+50741,73,0,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.375,Medium Risk
+50741,73,0,Not Hispanic or Latino,Male,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.375,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with paranoia,1,0,0,0,0,1,0,0,0,0,0,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.515384615,Medium Risk
+68704,96,0,Not Hispanic or Latino,Female,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.515384615,Medium Risk
+75527,85,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.435294118,Medium Risk
+75527,85,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.435294118,Medium Risk
+76218,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.291666667,Medium Risk
+76218,77,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.291666667,Medium Risk
+78029,79,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+78029,79,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+78029,79,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+78029,79,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.333333333,Medium Risk
+79557,70,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.078431373,Medium Risk
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.078431373,Medium Risk
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.078431373,Medium Risk
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.078431373,Medium Risk
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.078431373,Medium Risk
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.078431373,Medium Risk
+80627,74,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+81616,80,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.647619048,Medium Risk
+87767,74,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.153846154,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Benign secondary hypertension,1,0,0,0,1,0,0,0,0,0,0,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+89556,72,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.392307692,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.290697674,Medium Risk
+93710,67,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+93710,67,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+93710,67,0,Not Hispanic or Latino,Male,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+93710,67,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+93710,67,0,Not Hispanic or Latino,Male,WHITE,Renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+95639,90,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.222222222,Medium Risk
+95639,90,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.222222222,Medium Risk
+95639,90,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.222222222,Medium Risk
+95639,90,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.222222222,Medium Risk
+95639,90,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.222222222,Medium Risk
+99495,73,1,Not Hispanic or Latino,Female,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.5,Medium Risk
+103254,67,1,Not Hispanic or Latino,Male,WHITE,Benign secondary renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+108084,75,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+108570,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+109011,85,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+109011,85,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0,1.333333333,Medium Risk
+109011,85,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.333333333,Medium Risk
+109011,85,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.333333333,Medium Risk
+109011,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+110477,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.16,Medium Risk
+112090,77,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.504424779,Medium Risk
+112090,77,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.504424779,Medium Risk
+112090,77,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.504424779,Medium Risk
+112090,77,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.504424779,Medium Risk
+113352,72,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+113352,72,0,Not Hispanic or Latino,Female,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+116135,48,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.142857143,Medium Risk
+116135,48,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.142857143,Medium Risk
+116135,48,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0,1.142857143,Medium Risk
+117056,48,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.26984127,Medium Risk
+117056,48,1,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.26984127,Medium Risk
+120042,101,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+120042,101,0,Not Hispanic or Latino,Female,WHITE,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+129164,88,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.055555556,Medium Risk
+131772,69,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.125,Medium Risk
+131772,69,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.125,Medium Risk
+131772,69,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.125,Medium Risk
+131772,69,1,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.125,Medium Risk
+131772,69,1,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.125,Medium Risk
+131772,69,1,Not Hispanic or Latino,Female,WHITE,Malignant secondary hypertension,1,0,0,0,1,0,0,0,0,0,0,1.125,Medium Risk
+137317,55,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,0,
+137641,71,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.318181818,Medium Risk
+139021,79,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.223684211,Medium Risk
+139021,79,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.223684211,Medium Risk
+139021,79,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.223684211,Medium Risk
+139021,79,0,Not Hispanic or Latino,Female,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.223684211,Medium Risk
+140990,78,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.073170732,Medium Risk
+140990,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.073170732,Medium Risk
+144506,75,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+148060,87,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+148060,87,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+148377,70,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,0,
+148377,70,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,0,
+148377,70,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,0,
+148377,70,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+148377,70,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0,0,
+148377,70,0,Not Hispanic or Latino,Male,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.446280992,Medium Risk
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.446280992,Medium Risk
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0,1.446280992,Medium Risk
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.446280992,Medium Risk
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.446280992,Medium Risk
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.446280992,Medium Risk
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.446280992,Medium Risk
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.446280992,Medium Risk
+149903,75,0,Not Hispanic or Latino,Female,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.421052632,Medium Risk
+149903,75,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.421052632,Medium Risk
+149903,75,0,Not Hispanic or Latino,Female,WHITE,Malignant hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.421052632,Medium Risk
+149903,75,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.421052632,Medium Risk
+149903,75,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.421052632,Medium Risk
+149903,75,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.421052632,Medium Risk
+149903,75,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.421052632,Medium Risk
+149903,75,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.421052632,Medium Risk
+152073,67,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+152721,70,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+152721,70,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+152721,70,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+154129,70,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+154364,76,1,Not Hispanic or Latino,Female,WHITE,Benign secondary hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+154364,76,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+166342,87,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.195121951,Medium Risk
+166342,87,0,Not Hispanic or Latino,Male,WHITE,Secondary hypertension,1,0,0,0,1,0,0,0,0,0,0,1.195121951,Medium Risk
+166342,87,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.195121951,Medium Risk
+166342,87,0,Not Hispanic or Latino,Male,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.195121951,Medium Risk
+166342,87,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.195121951,Medium Risk
+166342,87,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.195121951,Medium Risk
+169249,67,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.111111111,Medium Risk
+169249,67,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.111111111,Medium Risk
+169249,67,1,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.111111111,Medium Risk
+169249,67,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,1,0,0,0,0,0,0,0,0,0,1,1.111111111,Medium Risk
+169249,67,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.111111111,Medium Risk
+169425,100,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.445544554,Medium Risk
+170067,73,1,Not Hispanic or Latino,Male,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+170067,73,1,Not Hispanic or Latino,Male,WHITE,Chronic peripheral venous hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+170067,73,1,Not Hispanic or Latino,Male,WHITE,Presenile dementia,1,0,0,0,0,1,0,0,0,0,0,0,
+170067,73,1,Not Hispanic or Latino,Male,WHITE,Presenile dementia with depression,1,0,0,0,0,1,0,0,0,0,0,0,
+170067,73,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+170067,73,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,0,
+170067,73,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0,0,
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.272727273,Medium Risk
+172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.272727273,Medium Risk
+172199,76,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.227272727,Medium Risk
+172199,76,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.227272727,Medium Risk
+172199,76,1,Not Hispanic or Latino,Female,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.227272727,Medium Risk
+172340,100,1,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.490566038,Medium Risk
+172340,100,1,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.490566038,Medium Risk
+172340,100,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.490566038,Medium Risk
+173502,72,1,Not Hispanic or Latino,Female,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.4,Medium Risk
+177980,73,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.542857143,Medium Risk
+182107,77,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.352380952,Medium Risk
+182107,77,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.352380952,Medium Risk
+184791,82,1,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.202380952,Medium Risk
+184791,82,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.202380952,Medium Risk
+185249,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.054054054,Medium Risk
+191748,78,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.166666667,Medium Risk
+192244,69,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+192244,69,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+198532,79,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.443298969,Medium Risk
+198532,79,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.443298969,Medium Risk
+198532,79,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.443298969,Medium Risk
+198818,87,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.447619048,Medium Risk
+198818,87,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.447619048,Medium Risk
+201672,80,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+201672,80,0,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.1,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+203236,73,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+204133,91,0,Not Hispanic or Latino,Female,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.53968254,Medium Risk
+204133,91,0,Not Hispanic or Latino,Female,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.53968254,Medium Risk
+204133,91,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.53968254,Medium Risk
+204133,91,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.53968254,Medium Risk
+204133,91,0,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.53968254,Medium Risk
+208484,89,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.288135593,Medium Risk
+208568,75,1,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.25,Medium Risk
+208568,75,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.25,Medium Risk
+208568,75,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1,1.25,Medium Risk
+208568,75,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.25,Medium Risk
+208568,75,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.25,Medium Risk
+213095,91,0,Not Hispanic or Latino,Female,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.238095238,Medium Risk
+213095,91,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.238095238,Medium Risk
+213782,73,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+213782,73,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+213782,73,1,Not Hispanic or Latino,Male,WHITE,Portal hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+217906,83,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Arteriosclerotic dementia with paranoia,1,0,0,0,0,1,0,0,0,0,0,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.271428571,Medium Risk
+228147,73,1,Not Hispanic or Latino,Female,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.285714286,Medium Risk
+233848,78,1,Not Hispanic or Latino,Male,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.203389831,Medium Risk
+233848,78,1,Not Hispanic or Latino,Male,WHITE,Chronic peripheral venous hypertension,1,0,0,0,1,0,0,0,0,0,0,1.203389831,Medium Risk
+233848,78,1,Not Hispanic or Latino,Male,WHITE,Benign secondary hypertension,1,0,0,0,1,0,0,0,0,0,0,1.203389831,Medium Risk
+233848,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.203389831,Medium Risk
+233848,78,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.203389831,Medium Risk
+233848,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.203389831,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3,Medium Risk
+234405,49,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+237311,53,1,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.471830986,Medium Risk
+237311,53,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.471830986,Medium Risk
+237311,53,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.471830986,Medium Risk
+237311,53,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.471830986,Medium Risk
+237311,53,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.471830986,Medium Risk
+237311,53,1,Not Hispanic or Latino,Male,WHITE,Secondary hypertension,1,0,0,0,1,0,0,0,0,0,0,1.471830986,Medium Risk
+237460,75,1,Not Hispanic or Latino,Female,WHITE,Portal hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+237490,94,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+237490,94,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+240640,80,1,Not Hispanic or Latino,Female,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.147058824,Medium Risk
+240713,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.328947368,Medium Risk
+244239,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+244239,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+255353,79,1,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+255353,79,1,Not Hispanic or Latino,Female,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+255353,79,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+255353,79,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+255353,79,1,Not Hispanic or Latino,Female,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.333333333,Medium Risk
+255353,79,1,Not Hispanic or Latino,Female,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+255353,79,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+255353,79,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+257877,72,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.791666667,Medium Risk
+257877,72,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.791666667,Medium Risk
+257877,72,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant hypertensive chronic kidney disease,1,1,0,0,0,0,0,0,0,0,0,1.791666667,Medium Risk
+260306,80,0,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.75308642,Medium Risk
+260306,80,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.75308642,Medium Risk
+260306,80,0,Not Hispanic or Latino,Male,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.75308642,Medium Risk
+264149,67,1,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+264149,67,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+264149,67,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+264149,67,1,Not Hispanic or Latino,Male,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+264149,67,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+267295,70,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+267776,69,0,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.25,Medium Risk
+267776,69,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.25,Medium Risk
+267776,69,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.25,Medium Risk
+277596,82,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0,1.390243902,Medium Risk
+277596,82,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.390243902,Medium Risk
+277596,82,0,Not Hispanic or Latino,Female,WHITE,Portal hypertension,1,0,0,0,1,0,0,0,0,0,0,1.390243902,Medium Risk
+277596,82,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.390243902,Medium Risk
+277596,82,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.390243902,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Portal hypertension,1,0,0,0,1,0,0,0,0,0,0,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Malignant secondary renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+278521,84,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.505154639,Medium Risk
+280126,70,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.418604651,Medium Risk
+280126,70,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.418604651,Medium Risk
+280126,70,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.418604651,Medium Risk
+290411,80,0,Not Hispanic or Latino,Female,UNKNOWN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+290411,80,0,Not Hispanic or Latino,Female,UNKNOWN,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.2,Medium Risk
+290411,80,0,Not Hispanic or Latino,Female,UNKNOWN,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.2,Medium Risk
+290411,80,0,Not Hispanic or Latino,Female,UNKNOWN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.2,Medium Risk
+291388,63,1,Not Hispanic or Latino,Female,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.085714286,Medium Risk
+291388,63,1,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.085714286,Medium Risk
+297237,82,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0,1.185185185,Medium Risk
+297237,82,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.185185185,Medium Risk
+297237,82,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.185185185,Medium Risk
+297237,82,1,Not Hispanic or Latino,Male,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.185185185,Medium Risk
+297237,82,1,Not Hispanic or Latino,Male,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.185185185,Medium Risk
+297237,82,1,Not Hispanic or Latino,Male,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0,1.185185185,Medium Risk
+299226,79,1,Not Hispanic or Latino,Male,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.25,Medium Risk
+300157,69,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+300157,69,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.44295302,Medium Risk
+300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.44295302,Medium Risk
+300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.44295302,Medium Risk
+300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.44295302,Medium Risk
+300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.44295302,Medium Risk
+301331,73,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.210526316,Medium Risk
+301331,73,0,Not Hispanic or Latino,Male,WHITE,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0,1.210526316,Medium Risk
+301331,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.210526316,Medium Risk
+301331,73,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.210526316,Medium Risk
+301331,73,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0,1.210526316,Medium Risk
+301331,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.210526316,Medium Risk
+302734,80,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.142857143,Medium Risk
+302734,80,0,Not Hispanic or Latino,Male,WHITE,Malignant hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.142857143,Medium Risk
+302734,80,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.142857143,Medium Risk
+304517,75,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+305308,97,0,Hispanic or Latino,Male,UNKNOWN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.344086022,Medium Risk
+305308,97,0,Hispanic or Latino,Male,UNKNOWN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.344086022,Medium Risk
+305308,97,0,Hispanic or Latino,Male,UNKNOWN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.344086022,Medium Risk
+307834,70,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.37755102,Medium Risk
+312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1,9,High Risk
+312450,77,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,9,High Risk
+312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,9,High Risk
+312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,9,High Risk
+312450,77,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,9,High Risk
+312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,9,High Risk
+312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,9,High Risk
+312482,78,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.205128205,Medium Risk
+315995,93,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+315995,93,1,Not Hispanic or Latino,Female,WHITE,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0,0,
+315995,93,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+315995,93,1,Not Hispanic or Latino,Female,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0,0,
+315995,93,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+319664,82,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+319664,82,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+319664,82,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+319664,82,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+319664,82,0,Not Hispanic or Latino,Male,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+319664,82,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+320258,80,0,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+321364,65,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.544117647,Medium Risk
+321364,65,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.544117647,Medium Risk
+321364,65,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.544117647,Medium Risk
+323336,85,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.181818182,Medium Risk
+323906,77,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3125,Medium Risk
+323906,77,0,Not Hispanic or Latino,Female,WHITE,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3125,Medium Risk
+323906,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.3125,Medium Risk
+324738,78,1,Not Hispanic or Latino,Male,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0,1.5,Medium Risk
+325977,78,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.333333333,Medium Risk
+325977,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+325977,78,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.333333333,Medium Risk
+327912,84,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.133333333,Medium Risk
+329344,79,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.584070796,Medium Risk
+329344,79,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.584070796,Medium Risk
+335320,76,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.237288136,Medium Risk
+335320,76,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.237288136,Medium Risk
+335705,79,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.142857143,Medium Risk
+335705,79,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,1.142857143,Medium Risk
+336829,73,1,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+336829,73,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+337906,78,1,Not Hispanic or Latino,Female,UNKNOWN,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.169811321,Medium Risk
+337906,78,1,Not Hispanic or Latino,Female,UNKNOWN,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.169811321,Medium Risk
+337906,78,1,Not Hispanic or Latino,Female,UNKNOWN,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1,1.169811321,Medium Risk
+338040,85,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
+339246,77,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+348748,72,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.090909091,Medium Risk
+350022,90,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1,1.102564103,Medium Risk
+350022,90,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0,1.102564103,Medium Risk
+351752,82,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1,0,
+351752,82,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0,0,
