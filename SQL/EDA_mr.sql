@@ -1,3 +1,39 @@
+-- DATASET REVIEW
+-----------------------------------------------------------------------------
+-- Concepts
+-- determine the necessary indexes so we may identify and derive meaning from codes
+WITH gender_index AS (
+    SELECT concept_id, concept_name, 
+    vocabulary_id --what coding system used (SNOMED, HCPCS, etc.)
+    FROM bigquery-public-data.cms_synthetic_patient_data_omop.concept
+    WHERE concept_id in (SELECT DISTINCT(gender_concept_id) FROM bigquery-public-data.cms_synthetic_patient_data_omop.person)
+),
+
+ethnicity_index AS (
+    SELECT concept_id, concept_name, 
+    vocabulary_id --what coding system used (SNOMED, HCPCS, etc.)
+    FROM bigquery-public-data.cms_synthetic_patient_data_omop.concept
+    WHERE concept_id in (SELECT DISTINCT(ethnicity_concept_id) FROM bigquery-public-data.cms_synthetic_patient_data_omop.person)
+),
+
+race_index AS (
+    SELECT concept_id, concept_name, 
+    vocabulary_id --what coding system used (SNOMED, HCPCS, etc.)
+    FROM bigquery-public-data.cms_synthetic_patient_data_omop.concept
+    WHERE concept_id in (SELECT DISTINCT(race_concept_id) FROM bigquery-public-data.cms_synthetic_patient_data_omop.person)
+)
+
+SELECT * 
+FROM gender_index
+UNION ALL 
+SELECt * 
+FROM ethnicity_index
+UNION ALL
+SELECT *
+FROM race_index
+;
+-----------------------------------------------------------------------------
+-- Demographics
 -- summary statistics for patient death, by demographic (age, gender, etc.)
 SELECT 'Overall' as demographic_group, 
 'All Patients' as demographic_value, 
@@ -48,30 +84,54 @@ ELSE 'Unknown' END AS demographic_value,
 COUNT(DISTINCT p.person_id) AS total_patients,
 COUNT(DISTINCT d.person_id) AS decesed_patients,
 ROUND(COUNT(DISTINCT d.person_id) * 100 / COUNT(DISTINCT p.person_id), 2) as mortality_rate_percent
-FROM `bigquery-public-data.cms_synthetic_patient_data_omop.person` p
-LEFT JOIN `bigquery-public-data.cms_synthetic_patient_data_omop.death` d
+FROM bigquery-public-data.cms_synthetic_patient_data_omop.person p
+LEFT JOIN bigquery-public-data.cms_synthetic_patient_data_omop.death d
 ON p.person_id = d.person_id
 GROUP BY demographic_value
 
-UNION ALL
+-----------------------------------------------------------------------------
+-- Condition
+-- Need to understand condition ids with their respective names/terms
+WITH con_dict as (
+SELECT concept_id, concept_name
+FROM bigquery-public-data.cms_synthetic_patient_data_omop.concept
+WHERE domain_id = 'Condition'
+),
 
--- Duration: 10 sec
--- Bytes Processed: 3.43 GB (3.33GB solo)
--- slot ms: 2705610
--- huge jump in processing here
-(SELECT 'condition' as demographic_group,
-CAST(ce.condition_concept_id AS STRING) as demographic_value,
-COUNT(ce.person_id) AS total_patients,
-COUNT(DISTINCT d.person_id) AS decesed_patients,
-ROUND(COUNT(DISTINCT d.person_id) * 100 / COUNT(DISTINCT ce.person_id), 2) as mortality_rate_percent
-FROM `bigquery-public-data.cms_synthetic_patient_data_omop.condition_era` ce
-LEFT JOIN `bigquery-public-data.cms_synthetic_patient_data_omop.death` d
-ON d.person_id = ce.person_id
-GROUP BY ce.condition_concept_id
-HAVING count(ce.person_id) > 10000 -- otherwise some rare condition with small sample size exist
-ORDER BY mortality_rate_percent DESC
-LIMIT 10)
+con_names as (
+    SELECT ce.person_id, COALESCE(cd.concept_name, 'Unknown') AS condition
+    FROM bigquery-public-data.cms_synthetic_patient_data_omop.condition_era ce
+    LEFT JOIN con_dict cd
+    ON ce.condition_concept_id = cn.concept_id
+)
 
 
+-- mortality summary for conditions
+SELECT cn.condition, COUNT(DISTINCT cn.person_id) AS total_patients, COUNT(DISTINCT d.person_id) as deceased_patients,
+ROUND(COUNT(DISTINCT d.person_id) * 100 / COUNT(DISTINCT cn.person_id),2) AS mortality_rate
+FROM con_names cn
+LEFT JOIN (SELECT person_id FROM bigquery-public-data.cms_synthetic_patient_data_omop.death) d
+ON cn.person_id = d.person_id
+GROUP BY cn.condition
+ORDER BY mortality_rate DESC
 ;
+
+-----------------------------------------------------------------------------
+-- Drugs
+
+-- determine the death rates of drugs
+SELECT drug_concept_id
+COUNT(DISTINCT de.person_id) AS total_patients,
+COUNT(DISTINCT d.person_id) AS disease_patients,
+ROUND(COUNT(DISTINCT d.person_id) * 100 /COUNT(DISTINCT de.person_id)) AS mortality_rate
+FROM bigquery-public-data.cms_synthetic_patient_data_omop.drug_era de
+LEFT JOIN bigquery-public-data.cms_synthetic_patient_data_omop.death d
+ON de.person_id = d.person_id
+GROUP BY de.drug_concept_id
+ORDER BY mortality_rate DESC
+;
+
+
+
+
 
