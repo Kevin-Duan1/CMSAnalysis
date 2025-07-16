@@ -120,17 +120,25 @@ ORDER BY mortality_rate DESC
 -- Drugs
 
 -- determine the death rates of drugs
-SELECT drug_concept_id
+SELECT c.concept_name,
 COUNT(DISTINCT de.person_id) AS total_patients,
 COUNT(DISTINCT d.person_id) AS disease_patients,
-ROUND(COUNT(DISTINCT d.person_id) * 100 /COUNT(DISTINCT de.person_id)) AS mortality_rate
+ROUND(COUNT(DISTINCT d.person_id) * 100 /COUNT(DISTINCT de.person_id), 2) AS mortality_rate
 FROM bigquery-public-data.cms_synthetic_patient_data_omop.drug_era de
 LEFT JOIN bigquery-public-data.cms_synthetic_patient_data_omop.death d
 ON de.person_id = d.person_id
-GROUP BY de.drug_concept_id
+LEFT JOIN bigquery-public-data.cms_synthetic_patient_data_omop.concept c
+ON drug_concept_id = c.concept_id
+GROUP BY de.drug_concept_id, c.concept_name
+HAVING total_patients > 100
 ORDER BY mortality_rate DESC
 ;
 
+-- the above dataset actually gives only the drug ingredients and not the actual drug. difficult to validate drug effectiveness.
+-- Need to incorporate another source and evaluate with drug.
+
+-----------------------------------------------------------------------------
+-- Drug Ingredients
 
 
 
