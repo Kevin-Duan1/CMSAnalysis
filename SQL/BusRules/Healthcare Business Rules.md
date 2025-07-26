@@ -2,12 +2,11 @@
 
 ## Patient Demographics
 **Age Bands:**
-- 0–17: Pediatric
-- 18–44: Young adult
-- 45–64: Middle-aged
-- 65–74: Early senior
-- 75–84: High-risk senior
-- 85+: Very high-risk (often triggers frailty flags)
+- 0–17: Under 18
+- 18–34: Adult
+- 35–54: Late Adult
+- 55–74: Early senior
+- 75+: Late Senior
 
 **Gender Specific Risk**
 - Prostate cancer risk → Male only

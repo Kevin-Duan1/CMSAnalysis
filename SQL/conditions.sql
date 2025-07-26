@@ -114,6 +114,6 @@ FROM conditions_flags
 WHERE chronic_condition = 1
 )
 
-SELECT pid, age, died,ethnicity, gender, race, SUM(num) as occurrence
+SELECT pid, age, died,ethnicity, gender, race, condition_type, num as occurrence
 FROM reclassification
 GROUP BY condition_type, pid

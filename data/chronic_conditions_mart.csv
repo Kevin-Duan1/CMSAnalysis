@@ -1,501 +1,501 @@
-pid,age,died,ethnicity,gender,race,concept+AF8-name,chronic+AF8-condition,has+AF8-ckd,has+AF8-copd,has+AF8-diabetes,has+AF8-hypertension,has+AF8-dementia,has+AF8-alzheimer,has+AF8-cancer,has+AF8-hiv,has+AF8-aids,heart+AF8-failure
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-1749,73,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-3474,80,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Malignant secondary renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Arteriosclerotic dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia,1,0,0,0,0,1,0,0,0,0,0
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-8553,72,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-8834,69,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-17972,58,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-19618,66,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia,1,0,0,0,0,1,0,0,0,0,0
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Chronic peripheral venous hypertension,1,0,0,0,1,0,0,0,0,0,0
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-22051,81,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Malignant secondary hypertension,1,0,0,0,1,0,0,0,0,0,0
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Malignant hypertensive chronic kidney disease,1,1,0,0,0,0,0,0,0,0,0
-22732,74,0,Not Hispanic or Latino,Male,WHITE,Malignant secondary hypertension,1,0,0,0,1,0,0,0,0,0,0
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Malignant hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Chronic peripheral venous hypertension,1,0,0,0,1,0,0,0,0,0,0
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-27958,81,1,Not Hispanic or Latino,Male,WHITE,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-29791,70,0,Not Hispanic or Latino,Male,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-29791,70,0,Not Hispanic or Latino,Male,WHITE,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-29791,70,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-29791,70,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-30558,80,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-34069,83,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-42936,69,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-42936,69,1,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-46359,89,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0
-46359,89,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-46359,89,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-46359,89,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-48468,76,0,Not Hispanic or Latino,Male,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-48468,76,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-48468,76,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-48468,76,0,Not Hispanic or Latino,Male,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-50741,73,0,Not Hispanic or Latino,Male,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-50741,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-50741,73,0,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-68704,96,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with paranoia,1,0,0,0,0,1,0,0,0,0,0
-75527,85,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-75527,85,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-76218,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-76218,77,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-78029,79,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-78029,79,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-78029,79,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-78029,79,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-79557,70,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-80627,74,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-81616,80,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-87767,74,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Benign secondary hypertension,1,0,0,0,1,0,0,0,0,0,0
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-89556,72,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-92624,78,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-93710,67,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-93710,67,0,Not Hispanic or Latino,Male,WHITE,Renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0
-93710,67,0,Not Hispanic or Latino,Male,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-93710,67,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-93710,67,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-95639,90,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-95639,90,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-95639,90,0,Not Hispanic or Latino,Female,WHITE,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-95639,90,0,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-95639,90,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-99495,73,1,Not Hispanic or Latino,Female,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-103254,67,1,Not Hispanic or Latino,Male,WHITE,Benign secondary renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0
-108084,75,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-108570,85,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-109011,85,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0
-109011,85,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-109011,85,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-109011,85,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-109011,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-110477,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-112090,77,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-112090,77,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-112090,77,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-112090,77,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-113352,72,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-113352,72,0,Not Hispanic or Latino,Female,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-116135,48,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-116135,48,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0
-116135,48,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-117056,48,1,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-117056,48,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-120042,101,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-120042,101,0,Not Hispanic or Latino,Female,WHITE,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-129164,88,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-131772,69,1,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-131772,69,1,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-131772,69,1,Not Hispanic or Latino,Female,WHITE,Malignant secondary hypertension,1,0,0,0,1,0,0,0,0,0,0
-131772,69,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-131772,69,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-131772,69,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-137317,55,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-137641,71,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-139021,79,0,Not Hispanic or Latino,Female,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-139021,79,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-139021,79,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-139021,79,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-140990,78,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-140990,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-144506,75,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-148060,87,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-148060,87,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-148377,70,0,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-148377,70,0,Not Hispanic or Latino,Male,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-148377,70,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-148377,70,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-148377,70,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-148377,70,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0
-149903,75,0,Not Hispanic or Latino,Female,WHITE,Malignant hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-149903,75,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-149903,75,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-149903,75,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-149903,75,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-149903,75,0,Not Hispanic or Latino,Female,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-149903,75,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-149903,75,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-152073,67,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-152721,70,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-152721,70,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-152721,70,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-154129,70,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-154364,76,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-154364,76,1,Not Hispanic or Latino,Female,WHITE,Benign secondary hypertension,1,0,0,0,1,0,0,0,0,0,0
-166342,87,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-166342,87,0,Not Hispanic or Latino,Male,WHITE,Secondary hypertension,1,0,0,0,1,0,0,0,0,0,0
-166342,87,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-166342,87,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-166342,87,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-166342,87,0,Not Hispanic or Latino,Male,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1
-169249,67,1,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-169249,67,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-169249,67,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-169249,67,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,1,0,0,0,0,0,0,0,0,0,1
-169249,67,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-169425,100,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-170067,73,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0
-170067,73,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-170067,73,1,Not Hispanic or Latino,Male,WHITE,Presenile dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-170067,73,1,Not Hispanic or Latino,Male,WHITE,Chronic peripheral venous hypertension,1,0,0,0,1,0,0,0,0,0,0
-170067,73,1,Not Hispanic or Latino,Male,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-170067,73,1,Not Hispanic or Latino,Male,WHITE,Presenile dementia,1,0,0,0,0,1,0,0,0,0,0
-170067,73,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172013,85,0,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-172199,76,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172199,76,1,Not Hispanic or Latino,Female,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-172199,76,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172340,100,1,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-172340,100,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-172340,100,1,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-173502,72,1,Not Hispanic or Latino,Female,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-177980,73,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-182107,77,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-182107,77,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-184791,82,1,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-184791,82,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-185249,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-191748,78,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-192244,69,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-192244,69,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-198532,79,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-198532,79,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-198532,79,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-198818,87,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-198818,87,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-201672,80,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-201672,80,0,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-203236,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-204133,91,0,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-204133,91,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-204133,91,0,Not Hispanic or Latino,Female,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-204133,91,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-204133,91,0,Not Hispanic or Latino,Female,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-208484,89,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-208568,75,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-208568,75,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-208568,75,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1
-208568,75,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-208568,75,1,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-213095,91,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-213095,91,0,Not Hispanic or Latino,Female,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-213782,73,1,Not Hispanic or Latino,Male,WHITE,Portal hypertension,1,0,0,0,1,0,0,0,0,0,0
-213782,73,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-213782,73,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-217906,83,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Arteriosclerotic dementia with paranoia,1,0,0,0,0,1,0,0,0,0,0
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-225718,74,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-228147,73,1,Not Hispanic or Latino,Female,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-233848,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233848,78,1,Not Hispanic or Latino,Male,WHITE,Benign secondary hypertension,1,0,0,0,1,0,0,0,0,0,0
-233848,78,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233848,78,1,Not Hispanic or Latino,Male,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1
-233848,78,1,Not Hispanic or Latino,Male,WHITE,Chronic peripheral venous hypertension,1,0,0,0,1,0,0,0,0,0,0
-233848,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Acute combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1
-233907,71,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-234405,49,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-237311,53,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-237311,53,1,Not Hispanic or Latino,Male,WHITE,Secondary hypertension,1,0,0,0,1,0,0,0,0,0,0
-237311,53,1,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-237311,53,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-237311,53,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-237311,53,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-237460,75,1,Not Hispanic or Latino,Female,WHITE,Portal hypertension,1,0,0,0,1,0,0,0,0,0,0
-237490,94,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-237490,94,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-240640,80,1,Not Hispanic or Latino,Female,WHITE,Acute systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-240713,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-244239,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-244239,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-255353,79,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-255353,79,1,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-255353,79,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-255353,79,1,Not Hispanic or Latino,Female,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-255353,79,1,Not Hispanic or Latino,Female,WHITE,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-255353,79,1,Not Hispanic or Latino,Female,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1
-255353,79,1,Not Hispanic or Latino,Female,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-255353,79,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-257877,72,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant hypertensive chronic kidney disease,1,1,0,0,0,0,0,0,0,0,0
-257877,72,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-257877,72,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-260306,80,0,Not Hispanic or Latino,Male,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-260306,80,0,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-260306,80,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-264149,67,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-264149,67,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-264149,67,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-264149,67,1,Not Hispanic or Latino,Male,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-264149,67,1,Not Hispanic or Latino,Male,WHITE,Acute diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-267295,70,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-267776,69,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-267776,69,0,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-267776,69,0,Not Hispanic or Latino,Female,WHITE,Chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-277596,82,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-277596,82,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-277596,82,0,Not Hispanic or Latino,Female,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0
-277596,82,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-277596,82,0,Not Hispanic or Latino,Female,WHITE,Portal hypertension,1,0,0,0,1,0,0,0,0,0,0
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Portal hypertension,1,0,0,0,1,0,0,0,0,0,0
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Malignant secondary renovascular hypertension,1,0,0,0,1,0,0,0,0,0,0
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart and renal disease with (congestive) heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-278521,84,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-280126,70,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-280126,70,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-280126,70,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-290411,80,0,Not Hispanic or Latino,Female,UNKNOWN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-290411,80,0,Not Hispanic or Latino,Female,UNKNOWN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-290411,80,0,Not Hispanic or Latino,Female,UNKNOWN,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-290411,80,0,Not Hispanic or Latino,Female,UNKNOWN,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-291388,63,1,Not Hispanic or Latino,Female,WHITE,Senile dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-291388,63,1,Not Hispanic or Latino,Female,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-297237,82,1,Not Hispanic or Latino,Male,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0
-297237,82,1,Not Hispanic or Latino,Male,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-297237,82,1,Not Hispanic or Latino,Male,WHITE,Uncomplicated senile dementia,1,0,0,0,0,1,0,0,0,0,0
-297237,82,1,Not Hispanic or Latino,Male,WHITE,Senile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-297237,82,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-297237,82,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-299226,79,1,Not Hispanic or Latino,Male,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-300157,69,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-300157,69,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-301331,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-301331,73,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-301331,73,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-301331,73,0,Not Hispanic or Latino,Male,WHITE,Arteriosclerotic dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-301331,73,0,Not Hispanic or Latino,Male,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0
-301331,73,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia with depression,1,0,0,0,0,1,0,0,0,0,0
-302734,80,0,Not Hispanic or Latino,Male,WHITE,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-302734,80,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-302734,80,0,Not Hispanic or Latino,Male,WHITE,Malignant hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-304517,75,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-305308,97,0,Hispanic or Latino,Male,UNKNOWN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-305308,97,0,Hispanic or Latino,Male,UNKNOWN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-305308,97,0,Hispanic or Latino,Male,UNKNOWN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-307834,70,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-310719,99,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-312450,77,0,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1
-312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-312450,77,0,Not Hispanic or Latino,Female,WHITE,Chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-312450,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-312482,78,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-315995,93,1,Not Hispanic or Latino,Female,WHITE,Uncomplicated arteriosclerotic dementia,1,0,0,0,0,1,0,0,0,0,0
-315995,93,1,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-315995,93,1,Not Hispanic or Latino,Female,WHITE,Acute on chronic diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-315995,93,1,Not Hispanic or Latino,Female,WHITE,Senile dementia with delusion,1,0,0,0,0,1,0,0,0,0,0
-315995,93,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-319664,82,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-319664,82,0,Not Hispanic or Latino,Male,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-319664,82,0,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-319664,82,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-319664,82,0,Not Hispanic or Latino,Male,WHITE,Systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-319664,82,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-320258,80,0,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-321364,65,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-321364,65,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-321364,65,0,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-323336,85,1,Not Hispanic or Latino,Female,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-323906,77,0,Not Hispanic or Latino,Female,WHITE,Diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-323906,77,0,Not Hispanic or Latino,Female,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-323906,77,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-324738,78,1,Not Hispanic or Latino,Male,WHITE,Ocular hypertension,1,0,0,0,1,0,0,0,0,0,0
-325977,78,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-325977,78,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-325977,78,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease with congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-327912,84,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-329344,79,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic combined systolic and diastolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-329344,79,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-335320,76,0,Not Hispanic or Latino,Female,WHITE,Acute on chronic systolic heart failure,1,0,0,0,0,0,0,0,0,0,1
-335320,76,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-335705,79,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-335705,79,1,Not Hispanic or Latino,Male,WHITE,Malignant essential hypertension,1,0,0,0,1,0,0,0,0,0,0
-336829,73,1,Not Hispanic or Latino,Male,WHITE,Hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-336829,73,1,Not Hispanic or Latino,Male,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-337906,78,1,Not Hispanic or Latino,Female,UNKNOWN,Congestive rheumatic heart failure,1,0,0,0,0,0,0,0,0,0,1
-337906,78,1,Not Hispanic or Latino,Female,UNKNOWN,Malignant hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-337906,78,1,Not Hispanic or Latino,Female,UNKNOWN,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-338040,85,0,Not Hispanic or Latino,Female,WHITE,Heritable pulmonary arterial hypertension,1,0,0,0,1,0,0,0,0,0,0
-339246,77,1,Not Hispanic or Latino,Female,WHITE,Benign hypertensive heart disease without congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-348748,72,1,Not Hispanic or Latino,Male,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-350022,90,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Presenile dementia with delirium,1,0,0,0,0,1,0,0,0,0,0
-350022,90,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-351752,82,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
-351752,82,0,Not Hispanic or Latino,Female,WHITE,Congestive heart failure,1,0,0,0,0,0,0,0,0,0,1
+pid,age,died,ethnicity,gender,race,condition_type,occurrence
+2128,73,1,Not Hispanic or Latino,Male,UNKNOWN,cancer,8
+2128,73,1,Not Hispanic or Latino,Male,UNKNOWN,blood cancer,7
+8553,72,0,Not Hispanic or Latino,Male,WHITE,schizophrenia,13
+22051,81,0,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+22051,81,0,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+22051,81,0,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+22051,81,0,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+22051,81,0,Not Hispanic or Latino,Female,WHITE,kidney disease,10
+22051,81,0,Not Hispanic or Latino,Female,WHITE,anemia,11
+22051,81,0,Not Hispanic or Latino,Female,WHITE,kidney disease,12
+22051,81,0,Not Hispanic or Latino,Female,WHITE,anemia,13
+22732,74,0,Not Hispanic or Latino,Male,WHITE,kidney disease,10
+22732,74,0,Not Hispanic or Latino,Male,WHITE,anemia,7
+22732,74,0,Not Hispanic or Latino,Male,WHITE,anemia,12
+22732,74,0,Not Hispanic or Latino,Male,WHITE,kidney disease,7
+22732,74,0,Not Hispanic or Latino,Male,WHITE,kidney disease,8
+27958,81,1,Not Hispanic or Latino,Male,WHITE,diabetes,8
+29791,70,0,Not Hispanic or Latino,Male,WHITE,diabetes,10
+29791,70,0,Not Hispanic or Latino,Male,WHITE,arthritis,7
+42936,69,1,Not Hispanic or Latino,Male,WHITE,cancer,8
+50741,73,0,Not Hispanic or Latino,Male,WHITE,cancer,8
+54581,72,1,Not Hispanic or Latino,Female,WHITE,anemia,11
+78029,79,0,Not Hispanic or Latino,Male,WHITE,kidney disease,9
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,heart rhythm disorders,7
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,11
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,arthritis,13
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,anemia,7
+80407,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,7
+89556,72,0,Not Hispanic or Latino,Male,WHITE,heart disease,9
+95639,90,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+99495,73,1,Not Hispanic or Latino,Female,WHITE,cancer,12
+108570,85,0,Not Hispanic or Latino,Female,WHITE,diabetes,10
+130775,86,1,Not Hispanic or Latino,Female,WHITE,depression,7
+139021,79,0,Not Hispanic or Latino,Female,WHITE,anemia,7
+139021,79,0,Not Hispanic or Latino,Female,WHITE,arthritis,8
+140990,78,1,Not Hispanic or Latino,Male,WHITE,heart disease,10
+148538,72,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,7
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,8
+148925,70,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,heart rhythm disorders,12
+149903,75,0,Not Hispanic or Latino,Female,WHITE,heart disease,8
+154129,70,1,Not Hispanic or Latino,Female,WHITE,anemia,12
+170067,73,1,Not Hispanic or Latino,Male,WHITE,anemia,11
+172013,85,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+172013,85,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+172199,76,1,Not Hispanic or Latino,Female,WHITE,cancer,10
+198532,79,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,arthritis,10
+204133,91,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,13
+204133,91,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+204133,91,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,9
+208568,75,1,Not Hispanic or Latino,Female,WHITE,lupus,9
+213095,91,0,Not Hispanic or Latino,Female,WHITE,eye disease,8
+217906,83,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+233848,78,1,Not Hispanic or Latino,Male,WHITE,kidney disease,12
+233848,78,1,Not Hispanic or Latino,Male,WHITE,diabetes,16
+240640,80,1,Not Hispanic or Latino,Female,WHITE,diabetes,10
+249921,101,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+255353,79,1,Not Hispanic or Latino,Female,WHITE,cancer,9
+255353,79,1,Not Hispanic or Latino,Female,WHITE,diabetes,9
+257877,72,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,cancer,10
+264149,67,1,Not Hispanic or Latino,Male,WHITE,anemia,7
+277596,82,0,Not Hispanic or Latino,Female,WHITE,COPD,7
+278521,84,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+278521,84,0,Not Hispanic or Latino,Female,WHITE,cancer,13
+291388,63,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,arthritis,12
+300491,83,0,Not Hispanic or Latino,Female,UNKNOWN,kidney disease,11
+302734,80,0,Not Hispanic or Latino,Male,WHITE,diabetes,9
+304402,80,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+312450,77,0,Not Hispanic or Latino,Female,WHITE,kidney disease,10
+312450,77,0,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+312450,77,0,Not Hispanic or Latino,Female,WHITE,kidney disease,9
+312450,77,0,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+315995,93,1,Not Hispanic or Latino,Female,WHITE,blood cancer,10
+315995,93,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,15
+315995,93,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+315995,93,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,10
+323906,77,0,Not Hispanic or Latino,Female,WHITE,anemia,7
+323906,77,0,Not Hispanic or Latino,Female,WHITE,bipolar disorder,7
+325977,78,1,Not Hispanic or Latino,Male,WHITE,anemia,8
+325977,78,1,Not Hispanic or Latino,Male,WHITE,diabetes,10
+335705,79,1,Not Hispanic or Latino,Male,WHITE,heart disease,8
+355617,74,1,Not Hispanic or Latino,Male,WHITE,diabetes,7
+355617,74,1,Not Hispanic or Latino,Male,WHITE,diabetes,11
+364364,69,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,kidney disease,12
+369758,73,0,Not Hispanic or Latino,Female,WHITE,diabetes,14
+376586,87,0,Not Hispanic or Latino,Female,WHITE,anemia,9
+376586,87,0,Not Hispanic or Latino,Female,WHITE,cancer,11
+376586,87,0,Not Hispanic or Latino,Female,WHITE,diabetes,10
+377394,87,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+380866,78,0,Not Hispanic or Latino,Male,WHITE,kidney disease,7
+380866,78,0,Not Hispanic or Latino,Male,WHITE,liver disease,9
+380866,78,0,Not Hispanic or Latino,Male,WHITE,diabetes,8
+383900,67,0,Not Hispanic or Latino,Female,WHITE,asthma,7
+383900,67,0,Not Hispanic or Latino,Female,WHITE,anemia,12
+383900,67,0,Not Hispanic or Latino,Female,WHITE,eye disease,10
+386912,70,1,Not Hispanic or Latino,Male,WHITE,cancer,11
+408746,88,0,Not Hispanic or Latino,Female,WHITE,diabetes,9
+409249,85,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,11
+409249,85,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,8
+417926,71,0,Hispanic or Latino,Male,UNKNOWN,heart disease,9
+437872,78,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+447972,71,0,Not Hispanic or Latino,Female,WHITE,cancer,12
+450188,67,0,Not Hispanic or Latino,Female,WHITE,anemia,9
+454027,82,0,Not Hispanic or Latino,Female,WHITE,cancer,17
+455328,88,0,Not Hispanic or Latino,Female,WHITE,diabetes,13
+462508,84,0,Not Hispanic or Latino,Female,WHITE,anemia,9
+468647,79,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+468647,79,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+468647,79,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+468647,79,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+474605,77,0,Not Hispanic or Latino,Female,WHITE,arthritis,7
+474605,77,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+474605,77,0,Not Hispanic or Latino,Female,WHITE,diabetes,9
+475778,81,0,Not Hispanic or Latino,Female,WHITE,heart disease,7
+475778,81,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+496415,76,1,Not Hispanic or Latino,Female,WHITE,diabetes,13
+500362,100,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+500362,100,0,Not Hispanic or Latino,Female,WHITE,diabetes,10
+504157,82,1,Not Hispanic or Latino,Female,WHITE,diabetes,16
+504157,82,1,Not Hispanic or Latino,Female,WHITE,kidney disease,24
+504157,82,1,Not Hispanic or Latino,Female,WHITE,kidney disease,12
+504157,82,1,Not Hispanic or Latino,Female,WHITE,kidney disease,9
+504157,82,1,Not Hispanic or Latino,Female,WHITE,anemia,12
+504157,82,1,Not Hispanic or Latino,Female,WHITE,kidney disease,36
+504157,82,1,Not Hispanic or Latino,Female,WHITE,kidney disease,10
+504157,82,1,Not Hispanic or Latino,Female,WHITE,anemia,11
+506373,71,0,Not Hispanic or Latino,Male,WHITE,heart disease,9
+506373,71,0,Not Hispanic or Latino,Male,WHITE,heart disease,7
+516303,43,1,Not Hispanic or Latino,Female,WHITE,kidney disease,17
+516303,43,1,Not Hispanic or Latino,Female,WHITE,kidney disease,11
+516303,43,1,Not Hispanic or Latino,Female,WHITE,anemia,7
+516303,43,1,Not Hispanic or Latino,Female,WHITE,anemia,8
+516303,43,1,Not Hispanic or Latino,Female,WHITE,kidney disease,9
+516303,43,1,Not Hispanic or Latino,Female,WHITE,kidney disease,10
+516303,43,1,Not Hispanic or Latino,Female,WHITE,anemia,8
+516303,43,1,Not Hispanic or Latino,Female,WHITE,kidney disease,14
+516303,43,1,Not Hispanic or Latino,Female,WHITE,anemia,19
+520093,78,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,anemia,14
+528085,88,0,Not Hispanic or Latino,Female,WHITE,GERD,11
+537723,73,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,heart rhythm disorders,7
+537723,73,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,heart rhythm disorders,7
+537723,73,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,cancer,7
+544944,71,0,Not Hispanic or Latino,Female,WHITE,anemia,11
+545255,84,0,Not Hispanic or Latino,Female,WHITE,cancer,8
+546086,71,0,Not Hispanic or Latino,Male,WHITE,anxiety,13
+546086,71,0,Not Hispanic or Latino,Male,WHITE,diabetes,7
+547743,92,0,Not Hispanic or Latino,Female,WHITE,heart disease,9
+547743,92,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,10
+548422,70,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,10
+548422,70,1,Not Hispanic or Latino,Female,WHITE,cancer,7
+549343,99,0,Not Hispanic or Latino,Female,WHITE,depression,10
+549343,99,0,Not Hispanic or Latino,Female,WHITE,anemia,12
+549343,99,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+553464,75,0,Not Hispanic or Latino,Male,WHITE,heart disease,8
+565880,101,0,Not Hispanic or Latino,Female,WHITE,heart disease,8
+574702,68,1,Not Hispanic or Latino,Male,WHITE,diabetes,7
+574702,68,1,Not Hispanic or Latino,Male,WHITE,diabetes,7
+574702,68,1,Not Hispanic or Latino,Male,WHITE,heart disease,8
+574702,68,1,Not Hispanic or Latino,Male,WHITE,diabetes,10
+574702,68,1,Not Hispanic or Latino,Male,WHITE,heart disease,7
+576147,77,1,Not Hispanic or Latino,Male,WHITE,cancer,11
+598954,100,1,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+598954,100,1,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+598954,100,1,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+598954,100,1,Not Hispanic or Latino,Female,WHITE,kidney disease,10
+598954,100,1,Not Hispanic or Latino,Female,WHITE,kidney disease,19
+598954,100,1,Not Hispanic or Latino,Female,WHITE,anemia,13
+600986,89,0,Not Hispanic or Latino,Male,WHITE,kidney disease,7
+600986,89,0,Not Hispanic or Latino,Male,WHITE,anemia,9
+600986,89,0,Not Hispanic or Latino,Male,WHITE,kidney disease,7
+600986,89,0,Not Hispanic or Latino,Male,WHITE,kidney disease,18
+600986,89,0,Not Hispanic or Latino,Male,WHITE,kidney disease,7
+604427,78,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+618983,79,1,Not Hispanic or Latino,Female,WHITE,diabetes,9
+618983,79,1,Not Hispanic or Latino,Female,WHITE,cancer,8
+628660,87,1,Not Hispanic or Latino,Female,WHITE,diabetes,8
+631772,67,1,Not Hispanic or Latino,Female,WHITE,cancer,8
+631772,67,1,Not Hispanic or Latino,Female,WHITE,kidney disease,10
+631772,67,1,Not Hispanic or Latino,Female,WHITE,cancer,10
+631772,67,1,Not Hispanic or Latino,Female,WHITE,cancer,10
+631772,67,1,Not Hispanic or Latino,Female,WHITE,anemia,7
+634938,75,0,Not Hispanic or Latino,Female,WHITE,diabetes,12
+636086,72,0,Not Hispanic or Latino,Female,WHITE,diabetes,10
+636086,72,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+636474,75,1,Not Hispanic or Latino,Male,WHITE,obesity,7
+647896,68,0,Not Hispanic or Latino,Male,WHITE,diabetes,9
+659655,77,1,Not Hispanic or Latino,Female,WHITE,diabetes,18
+660933,82,0,Not Hispanic or Latino,Male,WHITE,anemia,7
+660933,82,0,Not Hispanic or Latino,Male,WHITE,diabetes,9
+669785,69,1,Not Hispanic or Latino,Female,WHITE,diabetes,8
+682755,77,1,Not Hispanic or Latino,Female,WHITE,anemia,7
+682755,77,1,Not Hispanic or Latino,Female,WHITE,heart disease,7
+682755,77,1,Not Hispanic or Latino,Female,WHITE,anemia,7
+687891,70,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+696914,85,0,Hispanic or Latino,Female,UNKNOWN,diabetes,10
+700774,67,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,cancer,9
+716117,100,0,Not Hispanic or Latino,Female,WHITE,diabetes,10
+720213,73,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+738932,73,1,Not Hispanic or Latino,Female,WHITE,cancer,11
+740500,72,1,Not Hispanic or Latino,Male,WHITE,diabetes,7
+740500,72,1,Not Hispanic or Latino,Male,WHITE,diabetes,7
+747097,76,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,12
+750432,76,0,Not Hispanic or Latino,Female,WHITE,osteoporosis,7
+753795,69,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,7
+753795,69,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,8
+753795,69,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,11
+753795,69,0,Not Hispanic or Latino,Male,WHITE,cancer,7
+753795,69,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,9
+755163,81,0,Not Hispanic or Latino,Male,WHITE,eye disease,7
+755163,81,0,Not Hispanic or Latino,Male,WHITE,diabetes,9
+767575,98,1,Not Hispanic or Latino,Female,WHITE,anemia,8
+768975,68,0,Not Hispanic or Latino,Female,WHITE,cancer,7
+768975,68,0,Not Hispanic or Latino,Female,WHITE,diabetes,9
+769093,76,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+769093,76,0,Not Hispanic or Latino,Female,WHITE,diabetes,9
+769093,76,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+777872,70,0,Not Hispanic or Latino,Male,UNKNOWN,diabetes,7
+777872,70,0,Not Hispanic or Latino,Male,UNKNOWN,diabetes,9
+778327,78,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,kidney disease,10
+778618,79,0,Not Hispanic or Latino,Male,WHITE,cancer,9
+788578,79,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,7
+791142,73,1,Not Hispanic or Latino,Female,UNKNOWN,diabetes,9
+803938,77,0,Not Hispanic or Latino,Male,WHITE,kidney disease,7
+803938,77,0,Not Hispanic or Latino,Male,WHITE,diabetes,7
+811553,68,0,Not Hispanic or Latino,Male,WHITE,diabetes,8
+818587,76,1,Not Hispanic or Latino,Male,WHITE,arthritis,7
+818587,76,1,Not Hispanic or Latino,Male,WHITE,osteoporosis,7
+825290,85,0,Not Hispanic or Latino,Female,WHITE,heart disease,9
+825290,85,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+829242,80,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+829242,80,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,27
+829990,80,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+829990,80,0,Not Hispanic or Latino,Female,WHITE,eye disease,7
+847548,79,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+847822,85,0,Not Hispanic or Latino,Male,WHITE,kidney disease,7
+847822,85,0,Not Hispanic or Latino,Male,WHITE,kidney disease,10
+847822,85,0,Not Hispanic or Latino,Male,WHITE,kidney disease,13
+856047,74,1,Not Hispanic or Latino,Male,WHITE,cancer,7
+857904,82,0,Not Hispanic or Latino,Female,WHITE,anemia,7
+857904,82,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+861053,100,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,heart disease,7
+861053,100,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,8
+862301,73,0,Not Hispanic or Latino,Female,WHITE,cancer,7
+862301,73,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+862301,73,0,Not Hispanic or Latino,Female,WHITE,cancer,11
+872360,100,0,Not Hispanic or Latino,Male,WHITE,heart disease,11
+874585,74,0,Not Hispanic or Latino,Male,WHITE,diabetes,9
+886617,72,1,Not Hispanic or Latino,Female,WHITE,diabetes,15
+886856,68,1,Not Hispanic or Latino,Female,WHITE,diabetes,11
+905175,70,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+905175,70,0,Not Hispanic or Latino,Female,WHITE,heart disease,7
+911076,73,0,Not Hispanic or Latino,Male,WHITE,eye disease,9
+916158,74,0,Hispanic or Latino,Male,UNKNOWN,cancer,7
+916158,74,0,Hispanic or Latino,Male,UNKNOWN,osteoporosis,7
+921604,72,0,Not Hispanic or Latino,Female,WHITE,anemia,11
+934467,85,0,Not Hispanic or Latino,Male,WHITE,diabetes,8
+934849,71,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,heart rhythm disorders,7
+935942,86,0,Not Hispanic or Latino,Female,WHITE,cancer,7
+954025,71,0,Not Hispanic or Latino,Male,WHITE,diabetes,8
+962710,67,0,Not Hispanic or Latino,Female,WHITE,liver disease,7
+962710,67,0,Not Hispanic or Latino,Female,WHITE,thyroid disorders,10
+962710,67,0,Not Hispanic or Latino,Female,WHITE,diabetes,13
+968164,76,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,cancer,7
+968164,76,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,cancer,8
+969793,80,0,Not Hispanic or Latino,Male,WHITE,anemia,9
+969793,80,0,Not Hispanic or Latino,Male,WHITE,eye disease,8
+982003,82,1,Not Hispanic or Latino,Female,WHITE,kidney disease,20
+982003,82,1,Not Hispanic or Latino,Female,WHITE,kidney disease,19
+982003,82,1,Not Hispanic or Latino,Female,WHITE,kidney disease,55
+982003,82,1,Not Hispanic or Latino,Female,WHITE,diabetes,10
+982283,68,0,Not Hispanic or Latino,Male,WHITE,heart disease,8
+982283,68,0,Not Hispanic or Latino,Male,WHITE,diabetes,11
+992903,72,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,diabetes,15
+995650,80,0,Not Hispanic or Latino,Male,WHITE,eye disease,8
+995650,80,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,7
+998290,73,0,Not Hispanic or Latino,Male,WHITE,diabetes,12
+1006401,71,0,Not Hispanic or Latino,Male,WHITE,diabetes,8
+1009529,70,1,Not Hispanic or Latino,Female,WHITE,diabetes,12
+1009529,70,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+1009529,70,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+1010272,85,0,Not Hispanic or Latino,Male,WHITE,diabetes,9
+1012377,70,0,Not Hispanic or Latino,Male,WHITE,diabetes,7
+1020072,100,0,Not Hispanic or Latino,Male,WHITE,diabetes,11
+1022795,83,0,Not Hispanic or Latino,Female,WHITE,eye disease,7
+1041380,83,1,Not Hispanic or Latino,Male,WHITE,substance abuse,13
+1049421,85,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,9
+1061410,83,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,23
+1061410,83,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,10
+1061410,83,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,7
+1069993,79,1,Not Hispanic or Latino,Male,WHITE,cancer,9
+1069993,79,1,Not Hispanic or Latino,Male,WHITE,arthritis,7
+1078830,66,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+1084172,71,0,Not Hispanic or Latino,Female,WHITE,eye disease,7
+1084172,71,0,Not Hispanic or Latino,Female,WHITE,anemia,11
+1086249,84,1,Not Hispanic or Latino,Female,WHITE,eye disease,10
+1086249,84,1,Not Hispanic or Latino,Female,WHITE,diabetes,30
+1089030,81,0,Not Hispanic or Latino,Female,WHITE,eye disease,8
+1095988,89,0,Not Hispanic or Latino,Female,WHITE,anemia,9
+1096187,74,0,Not Hispanic or Latino,Male,WHITE,diabetes,8
+1096187,74,0,Not Hispanic or Latino,Male,WHITE,heart disease,8
+1096187,74,0,Not Hispanic or Latino,Male,WHITE,diabetes,9
+1099371,78,1,Not Hispanic or Latino,Female,WHITE,anemia,7
+1100817,71,0,Not Hispanic or Latino,Male,WHITE,diabetes,8
+1109683,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+1123516,89,0,Not Hispanic or Latino,Female,WHITE,heart disease,13
+1123516,89,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+1123516,89,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+1123516,89,0,Not Hispanic or Latino,Female,WHITE,heart disease,7
+1123516,89,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+1124205,67,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+1134145,81,0,Not Hispanic or Latino,Male,WHITE,diabetes,11
+1134292,86,1,Not Hispanic or Latino,Female,WHITE,cancer,9
+1134292,86,1,Not Hispanic or Latino,Female,WHITE,cancer,7
+1142288,68,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+1144407,91,0,Not Hispanic or Latino,Female,WHITE,diabetes,12
+1144888,81,0,Not Hispanic or Latino,Male,WHITE,anemia,8
+1156159,88,0,Not Hispanic or Latino,Female,WHITE,epilepsy,7
+1156288,81,1,Not Hispanic or Latino,Female,WHITE,heart disease,10
+1156288,81,1,Not Hispanic or Latino,Female,WHITE,diabetes,9
+1165080,96,0,Not Hispanic or Latino,Female,WHITE,cancer,7
+1169052,87,0,Not Hispanic or Latino,Female,WHITE,alzheimers,10
+1169052,87,0,Not Hispanic or Latino,Female,WHITE,anemia,7
+1169052,87,0,Not Hispanic or Latino,Female,WHITE,anemia,9
+1181313,67,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,anemia,7
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,anemia,8
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,9
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,33
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,anemia,11
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,10
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,35
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,anemia,21
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,15
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+1182874,80,1,Not Hispanic or Latino,Female,WHITE,anemia,8
+1186661,87,0,Not Hispanic or Latino,Male,WHITE,diabetes,10
+1186661,87,0,Not Hispanic or Latino,Male,WHITE,blood cancer,12
+1196084,57,1,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,8
+1214700,78,1,Not Hispanic or Latino,Male,WHITE,diabetes,7
+1231085,80,1,Not Hispanic or Latino,Female,UNKNOWN,heart rhythm disorders,7
+1234146,73,0,Not Hispanic or Latino,Male,WHITE,diabetes,15
+1234515,86,0,Not Hispanic or Latino,Female,WHITE,heart disease,8
+1239394,90,1,Not Hispanic or Latino,Female,WHITE,cancer,12
+1251883,68,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+1251883,68,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+1251883,68,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+1258914,67,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,10
+1260419,84,1,Not Hispanic or Latino,Female,WHITE,anemia,13
+1278384,79,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,9
+1278384,79,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+1311145,74,0,Not Hispanic or Latino,Female,WHITE,arthritis,7
+1316130,68,0,Not Hispanic or Latino,Female,WHITE,diabetes,13
+1324426,71,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+1327294,93,0,Not Hispanic or Latino,Female,WHITE,schizophrenia,8
+1327294,93,0,Not Hispanic or Latino,Female,WHITE,diabetes,12
+1342836,69,0,Not Hispanic or Latino,Male,WHITE,eye disease,7
+1342836,69,0,Not Hispanic or Latino,Male,WHITE,eye disease,7
+1344184,78,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+1356826,84,0,Not Hispanic or Latino,Female,WHITE,asthma,7
+1356826,84,0,Not Hispanic or Latino,Female,WHITE,arthritis,9
+1356826,84,0,Not Hispanic or Latino,Female,WHITE,arthritis,13
+1356826,84,0,Not Hispanic or Latino,Female,WHITE,diabetes,10
+1356826,84,0,Not Hispanic or Latino,Female,WHITE,anemia,7
+1358151,77,0,Not Hispanic or Latino,Male,WHITE,diabetes,10
+1375940,80,0,Not Hispanic or Latino,Male,WHITE,anemia,8
+1376322,69,0,Not Hispanic or Latino,Male,WHITE,cancer,9
+1376828,86,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,10
+1376828,86,0,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,diabetes,11
+1380683,60,1,Not Hispanic or Latino,Male,WHITE,kidney disease,11
+1380683,60,1,Not Hispanic or Latino,Male,WHITE,anemia,9
+1380683,60,1,Not Hispanic or Latino,Male,WHITE,anemia,12
+1381053,77,1,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,10
+1381053,77,1,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,7
+1390468,87,0,Not Hispanic or Latino,Male,WHITE,diabetes,7
+1390468,87,0,Not Hispanic or Latino,Male,WHITE,lupus,13
+1395103,76,1,Not Hispanic or Latino,Male,WHITE,eye disease,8
+1405210,72,1,Not Hispanic or Latino,Female,WHITE,diabetes,7
+1407238,87,0,Not Hispanic or Latino,Female,WHITE,heart disease,9
+1410186,70,0,Not Hispanic or Latino,Male,WHITE,diabetes,7
+1412175,89,1,Not Hispanic or Latino,Female,WHITE,diabetes,10
+1421867,78,0,Not Hispanic or Latino,Female,WHITE,lupus,10
+1423805,75,0,Not Hispanic or Latino,Male,WHITE,arthritis,8
+1435090,70,0,Not Hispanic or Latino,Male,WHITE,substance abuse,13
+1441674,68,0,Not Hispanic or Latino,Male,WHITE,lupus,13
+1446906,82,1,Not Hispanic or Latino,Male,WHITE,diabetes,7
+1447994,79,0,Not Hispanic or Latino,Male,WHITE,COPD,8
+1454948,82,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+1454948,82,0,Not Hispanic or Latino,Female,WHITE,diabetes,7
+1454948,82,0,Not Hispanic or Latino,Female,WHITE,diabetes,11
+1456014,78,0,Not Hispanic or Latino,Male,WHITE,anemia,13
+1460823,80,1,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,9
+1465366,95,0,Not Hispanic or Latino,Male,WHITE,diabetes,9
+1465366,95,0,Not Hispanic or Latino,Male,WHITE,kidney disease,29
+1465366,95,0,Not Hispanic or Latino,Male,WHITE,kidney disease,7
+1465366,95,0,Not Hispanic or Latino,Male,WHITE,anemia,18
+1465366,95,0,Not Hispanic or Latino,Male,WHITE,kidney disease,10
+1465366,95,0,Not Hispanic or Latino,Male,WHITE,kidney disease,16
+1465366,95,0,Not Hispanic or Latino,Male,WHITE,kidney disease,18
+1469999,71,0,Not Hispanic or Latino,Female,UNKNOWN,heart disease,7
+1471700,68,0,Not Hispanic or Latino,Female,WHITE,heart disease,8
+1479569,68,0,Not Hispanic or Latino,Male,WHITE,arthritis,7
+1479569,68,0,Not Hispanic or Latino,Male,WHITE,kidney disease,8
+1485115,89,0,Not Hispanic or Latino,Female,WHITE,hypertension,7
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,kidney disease,15
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,kidney disease,12
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,kidney disease,28
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,kidney disease,28
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,anemia,9
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,anemia,7
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+1496603,67,1,Not Hispanic or Latino,Female,WHITE,kidney disease,7
+1497299,89,0,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+1501587,79,1,Not Hispanic or Latino,Female,WHITE,arthritis,7
+1501600,76,0,Not Hispanic or Latino,Female,WHITE,arthritis,7
+1516063,68,0,Not Hispanic or Latino,Female,WHITE,eye disease,7
+1519738,88,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,9
+1524667,89,1,Not Hispanic or Latino,Female,WHITE,diabetes,11
+1548497,71,0,Not Hispanic or Latino,Female,WHITE,diabetes,9
+1548519,80,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+1548558,81,1,Not Hispanic or Latino,Female,WHITE,heart disease,8
+1553593,82,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,anemia,9
+1557637,69,0,Not Hispanic or Latino,Male,WHITE,heart disease,8
+1557637,69,0,Not Hispanic or Latino,Male,WHITE,blood cancer,11
+1559003,77,0,Not Hispanic or Latino,Female,WHITE,heart disease,9
+1569096,85,1,Hispanic or Latino,Female,UNKNOWN,diabetes,15
+1569949,79,1,Not Hispanic or Latino,Female,BLACK OR AFRICAN AMERICAN,cancer,7
+1572874,71,1,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,diabetes,7
+1589961,68,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,8
+1589961,68,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+1589961,68,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,7
+1589961,68,0,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,10
+1599077,72,1,Not Hispanic or Latino,Male,WHITE,cancer,9
+1599231,84,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,heart disease,7
+1601201,80,1,Not Hispanic or Latino,Female,WHITE,heart rhythm disorders,10
+1609001,79,0,Not Hispanic or Latino,Male,WHITE,anemia,7
+1609001,79,0,Not Hispanic or Latino,Male,WHITE,diabetes,10
+1610061,68,0,Not Hispanic or Latino,Female,WHITE,diabetes,18
+1620146,76,0,Not Hispanic or Latino,Male,WHITE,diabetes,7
+1628773,79,1,Not Hispanic or Latino,Male,WHITE,heart disease,7
+1635699,71,0,Not Hispanic or Latino,Male,WHITE,cancer,7
+1635699,71,0,Not Hispanic or Latino,Male,WHITE,anemia,13
+1637488,87,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+1643906,81,0,Not Hispanic or Latino,Male,WHITE,diabetes,11
+1645845,76,1,Not Hispanic or Latino,Female,WHITE,diabetes,12
+1654617,83,0,Not Hispanic or Latino,Male,WHITE,diabetes,8
+1666245,79,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,10
+1671958,62,1,Not Hispanic or Latino,Male,WHITE,heart disease,8
+1672624,79,0,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+1675133,72,0,Not Hispanic or Latino,Female,WHITE,diabetes,9
+1675133,72,0,Not Hispanic or Latino,Female,WHITE,diabetes,9
+1675133,72,0,Not Hispanic or Latino,Female,WHITE,arthritis,16
+1677367,85,1,Not Hispanic or Latino,Male,WHITE,heart disease,8
+1677367,85,1,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,7
+1677367,85,1,Not Hispanic or Latino,Male,WHITE,diabetes,9
+1687855,76,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+1721752,91,1,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,7
+1721752,91,1,Not Hispanic or Latino,Male,WHITE,diabetes,8
+1738702,68,0,Not Hispanic or Latino,Female,WHITE,diabetes,12
+1743804,90,0,Not Hispanic or Latino,Male,WHITE,cancer,10
+1743804,90,0,Not Hispanic or Latino,Male,WHITE,heart rhythm disorders,7
+1752796,80,0,Not Hispanic or Latino,Male,WHITE,heart disease,7
+1762946,67,0,Not Hispanic or Latino,Female,WHITE,anemia,7
+1762946,67,0,Not Hispanic or Latino,Female,WHITE,COPD,7
+1778265,72,0,Not Hispanic or Latino,Female,WHITE,anemia,13
+1778265,72,0,Not Hispanic or Latino,Female,WHITE,lupus,9
+1779086,63,1,Not Hispanic or Latino,Male,WHITE,COPD,7
+1786733,90,0,Not Hispanic or Latino,Female,WHITE,cancer,9
+1789761,70,1,Not Hispanic or Latino,Male,WHITE,diabetes,7
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,kidney disease,8
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,heart disease,12
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,kidney disease,15
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,kidney disease,13
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,kidney disease,25
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,diabetes,10
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,kidney disease,44
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,kidney disease,14
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,anemia,18
+1790831,83,1,Not Hispanic or Latino,Female,WHITE,anemia,7
+1792646,80,0,Not Hispanic or Latino,Female,WHITE,cancer,12
+1810480,71,0,Not Hispanic or Latino,Female,WHITE,blood cancer,7
+1811666,81,1,Not Hispanic or Latino,Male,WHITE,kidney disease,12
+1816890,74,1,Not Hispanic or Latino,Female,WHITE,anemia,8
+1816890,74,1,Not Hispanic or Latino,Female,WHITE,cancer,14
+1817028,97,1,Not Hispanic or Latino,Female,WHITE,diabetes,8
+1817455,90,0,Not Hispanic or Latino,Female,WHITE,diabetes,8
+1826851,58,1,Hispanic or Latino,Male,UNKNOWN,heart disease,8
+1829741,70,0,Not Hispanic or Latino,Female,WHITE,heart disease,7
+1831014,80,0,Not Hispanic or Latino,Female,WHITE,anemia,7
+1833447,83,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,anemia,7
+1833447,83,0,Not Hispanic or Latino,Male,BLACK OR AFRICAN AMERICAN,anemia,7
+1840825,51,1,Hispanic or Latino,Male,UNKNOWN,eye disease,8
+1849298,80,0,Not Hispanic or Latino,Female,WHITE,cancer,9
+1849298,80,0,Not Hispanic or Latino,Female,WHITE,heart disease,7
+1859391,78,0,Not Hispanic or Latino,Female,WHITE,diabetes,9
+1876827,83,0,Not Hispanic or Latino,Male,WHITE,diabetes,7
+1878109,81,1,Not Hispanic or Latino,Female,WHITE,diabetes,9
